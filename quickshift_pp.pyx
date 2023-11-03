@@ -15,7 +15,7 @@
 import numpy as np
 cimport numpy as np
 from sklearn.neighbors import KDTree, BallTree
-from sklearn.neighbors.kde import KernelDensity
+from sklearn.neighbors import KernelDensity
 import scipy
 import math
 import sys
