@@ -57,7 +57,7 @@ python modules.
 To install for all users on Unix/Linux::
 
 ```bash
-  sudo python setup.py build; python setup.py install
+>>> sudo python setup.py build; python setup.py install
 ```
 
 Or you can (recommended):
